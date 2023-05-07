@@ -1,0 +1,41 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardContainer{
+    border: solid black;
+    border: 1px solid;
+    border-radius: 10px;
+    max-width: 250px;
+    padding: 0 20px;
+    margin: 20px 0 ;
+}
+
+.button{
+    border: none;
+    background-color: white;
+    font-weight: bold;
+}
+
+#input{
+    border: solid black;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 5px 10px;
+}
+
+#select{
+    border: solid black;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 5px 10px;
+}
+
+.btn_select{
+    border: solid black;
+    border-radius: 10px;
+    border: 1px solid;
+    background-color: white;
+    padding: 5px 10px;
+}
